@@ -1,0 +1,47 @@
+-conf1. Si
+-conf2. Ofrece atencion profesional individualizada a niños con patologias fisicas o psiquicas dada por diplomados de la materia
+Centrarse en enviar a los niños la mejor atencion. El entorno alrededor del niño
+- conf3. Todos los de la ong son voluntarios. La patologia del niño es permanente y necesita un tratamiento continuado
+- conf4. Los tratamientos son muy caros (fisios etc...) y los niños necesitan esa terapia. Puede haber familias que no pueden pagar
+Todos los niños, indistintamente de la familia, reciban la misma terapìa
+
+- conf7. Mejorar tambien como conseguir los voluntarios. Mucha gente no conoce la empresa.
+
+- from1. Estan almacenados los expedientes de cada niño internamente. No esta guardado como se llevan a cabo las terapias
+
+- soci:
+usan el dominio .org con la finalidad de profesionalizar la comunicacion. Depende de un voluntario informatico. Los voluntarios que vienen a dar la terapia cumplian menos los informaticos
+
+- memo
+Se pasan la informacion a veces entre llamadas. 
+
+Se piden diplomaturas para los voluntarios (antecendentes penales) y todo esta registrado.
+Una vez al año se registra la valoracion del niño. No se tiene un registro de cada sesion, se lo pasan a traves de llamadas
+
+-preguntas de si o no-
+
+No se ha realizado una auditoria. 
+
+No hay forma de dar feedback sobre los voluntarios
+
+hacen reuniones y citas presenciales o por telefono para compartir informacion sobre la compañia o con los padres
+
+La directora almacena los datos que le son entregados sobre la compañia
+
+En drive reportan lo que han trabajado los voluntarios
+
+Ofrecen un terapeuta de apoyo para los voluntarios nuevos, que es el que reporta si estan preparados o no para comenzar a trabajar
+
+No tienen mecanismos para reportar el capital tecnologico
+
+A veces se pasan cursos nuevos para que realicen los voluntarios
+
+No funciono poner publico las cuentas en la pagina web
+
+
+
+
+
+
+
+
